@@ -1,45 +1,65 @@
-#plus
-tambah = 1 + 5
-print(tambah)
+#compare
+a = 4
+b = 7
 
-#minus
-kurang = 7-8
-print(kurang)
+#more than
+res = b > 9
+print(b, '>', '=', res  )
+res = a > 9
+print(a, '>', '=', res  )
+res = b > 6
+print(b, '>', '=', res  )
+res = a > 3
+print(a, '>', '=', res  )
 
-#multiple
-kali = 2*3
-print(kali)
+#Less than
+res = a < 3
+print(a, '<', '=', res  )
+res = b < 3
+print(b, '<', '=', res  )
+res = a < 10
+print(a, '<', '=', res  )
+res = b < 10
+print(b, '<', '=', res  )
 
-#devide
-bagi = 12/4
-print(bagi)
+#more than equal to
+res = b > 7
+print(b, '>=', '=', res  )
+res = a > 7
+print(a, '>=', '=', res  )
+res = b >= 7
+print(b, '>=', '=', res  )
+res = a >= 3
+print(a, '>=', '=', res  )
 
-#combine
-number = 1 + 2 * 3 / 4.0
-print(number)
+#less than equal to
+res = a <= 4
+print(a, '<=', '=', res  )
+res = b <= 4
+print(b, '<=', '=', res  )
+res = a <= 10
+print(a, '<=', '=', res  )
+res = b <= 10
+print(b, '<=', '=', res  )
 
-#mod
-mod = 11 % 3
-print(mod)
+# compare ==
+res = a == 4
+print(a, '==', '=', res  )
+res = b == 4
+print(b, '==', '=', res  )
 
-#two multiplication
-squared = 7 ** 2
-cubed = 2 ** 3
-print(squared)
-print(cubed)
+#not equal to
+res = a != 4
+print(a, '!=', '=', res  )
+res = b != 4
+print(b, '!=', '=', res  )
 
-#string 
-helloworld = "hello" + " " + "world"
-print(helloworld)
 
-#multiplying strings
-lotsofhellos = "hai" * 10
-print(lotsofhellos)
+#object identitiy
 
-#Operators with Lists
-even_numbers = [2,4,6,8]
-odd_numbers = [1,3,5,7]
-all_numbers = odd_numbers + even_numbers
-print(all_numbers)
-
-print([1,2,3] * 3)
+x = 4
+y = 3
+print('value x =', x,', id = ' , hex(id(x)))
+print('value y =', y,', id = ' , hex(id(y)))
+resu = x is y
+print ('x is y =', resu)
