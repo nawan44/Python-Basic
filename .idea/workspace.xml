@@ -20,15 +20,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/compare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_type.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_type.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/base_construction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/branching.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iteration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/hello_world.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,8 +55,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/requirements.txt" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/requirements.txt" />
   </component>
-  <component name="RunManager" selected="Python.casting_data">
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+  <component name="RunManager" selected="Python.iteration">
+    <configuration name="branching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -56,11 +64,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/branching.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -111,6 +119,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteration.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,85 +161,12 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Unittests">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.casting_data" />
+        <item itemvalue="Python.iteration" />
+        <item itemvalue="Python.branching" />
         <item itemvalue="Python.hello_world" />
+        <item itemvalue="Python.casting_data" />
       </list>
     </recent_temporary>
   </component>
@@ -226,6 +182,15 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
@@ -240,21 +205,37 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="236" y="179" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598929457796" />
-    <state width="874" height="215" key="GridCell.Tab.0.bottom" timestamp="1598930069225">
+    <state width="874" height="215" key="GridCell.Tab.0.bottom" timestamp="1599090723405">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1598930069225" />
-    <state width="874" height="215" key="GridCell.Tab.0.center" timestamp="1598930069225">
+    <state width="874" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599090723405" />
+    <state width="874" height="215" key="GridCell.Tab.0.center" timestamp="1599090723405">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1598930069225" />
-    <state width="874" height="215" key="GridCell.Tab.0.left" timestamp="1598930069225">
+    <state width="874" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599090723404" />
+    <state width="874" height="215" key="GridCell.Tab.0.left" timestamp="1599090723404">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1598930069225" />
-    <state width="874" height="215" key="GridCell.Tab.0.right" timestamp="1598930069225">
+    <state width="874" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599090723404" />
+    <state width="874" height="215" key="GridCell.Tab.0.right" timestamp="1599090723405">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1598930069225" />
+    <state width="874" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599090723405" />
+    <state width="874" height="267" key="GridCell.Tab.1.bottom" timestamp="1599090149933">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="874" height="267" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
+    <state width="874" height="267" key="GridCell.Tab.1.center" timestamp="1599090149933">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="874" height="267" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
+    <state width="874" height="267" key="GridCell.Tab.1.left" timestamp="1599090149933">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="874" height="267" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
+    <state width="874" height="267" key="GridCell.Tab.1.right" timestamp="1599090149933">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="874" height="267" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
   </component>
 </project>
