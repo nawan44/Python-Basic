@@ -20,3 +20,7 @@ print("Value a =", a)
 #assignment indirect
 b = a
 print("Value b = ", b)
+
+#assignment indirect
+b = a
+print("Value b = ", b)
