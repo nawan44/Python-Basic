@@ -4,7 +4,7 @@ brand2 = 'Honda'
 brand3 = 'BMW'
 brand4 = 'Mercedes'
 brand5 = 'Ferrari'
-brnad6 = 'Jaguar'
+
 
 print(brand1)
 print(brand2)
@@ -13,7 +13,7 @@ print(brand4)
 print(brand5)
 
 #data list 
-brand = ['Toyota', 'Honda', 'BMW', 'Mercedes', 'Ferrari', 'Jaguar']
+brand = ['Toyota', 'Honda', 'BMW', 'Mercedes', 'Ferrari']
 print(brand)
 brand.append('Mclearn')
 print(brand)

@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_dict.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variable.py" beforeDir="false" afterPath="$PROJECT_DIR$/variable.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_list.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,28 +53,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/requirements.txt" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/requirements.txt" />
   </component>
-  <component name="RunManager" selected="Python.iteration">
-    <configuration name="branching" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/branching.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.data_dict">
     <configuration name="casting_data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,6 +67,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/casting_data.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,8 +182,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.data_dict" />
+        <item itemvalue="Python.data_list" />
         <item itemvalue="Python.iteration" />
-        <item itemvalue="Python.branching" />
         <item itemvalue="Python.hello_world" />
         <item itemvalue="Python.casting_data" />
       </list>
@@ -203,22 +225,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="236" y="179" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598929457796" />
-    <state width="874" height="215" key="GridCell.Tab.0.bottom" timestamp="1599090723405">
+    <state width="711" height="215" key="GridCell.Tab.0.bottom" timestamp="1599263945135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599090723405" />
-    <state width="874" height="215" key="GridCell.Tab.0.center" timestamp="1599090723405">
+    <state width="711" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599263945135" />
+    <state width="711" height="215" key="GridCell.Tab.0.center" timestamp="1599263945135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599090723404" />
-    <state width="874" height="215" key="GridCell.Tab.0.left" timestamp="1599090723404">
+    <state width="711" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599263945135" />
+    <state width="711" height="215" key="GridCell.Tab.0.left" timestamp="1599263945135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599090723404" />
-    <state width="874" height="215" key="GridCell.Tab.0.right" timestamp="1599090723405">
+    <state width="711" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599263945135" />
+    <state width="711" height="215" key="GridCell.Tab.0.right" timestamp="1599263945135">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="874" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599090723405" />
+    <state width="711" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599263945135" />
     <state width="874" height="267" key="GridCell.Tab.1.bottom" timestamp="1599090149933">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -235,5 +257,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="874" height="267" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599261293927">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599261293927" />
   </component>
 </project>
