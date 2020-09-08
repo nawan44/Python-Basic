@@ -19,9 +19,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Learn_package/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logika_operation.py" afterDir="false" />
+    <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="logika operation">
+      <change afterPath="$PROJECT_DIR$/Learn_package/module_square.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Learn_package/module_triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/empty_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module/area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module/use_geometry.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module/use_module_square.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +58,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/requirements.txt" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/requirements.txt" />
   </component>
-  <component name="RunManager" selected="Python.logika_operation">
-    <configuration name="data_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.area">
+    <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,32 +67,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/use_module" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="data_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module/area.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,27 +93,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="iteration" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/iteration.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,13 +143,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="use_geometry" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/use_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module/use_geometry.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_module_square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/use_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module/use_module_square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.area" />
+        <item itemvalue="Python.use_module_square" />
+        <item itemvalue="Python.use_geometry" />
         <item itemvalue="Python.logika_operation" />
         <item itemvalue="Python.function" />
-        <item itemvalue="Python.data_dict" />
-        <item itemvalue="Python.data_list" />
-        <item itemvalue="Python.iteration" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +204,14 @@
       <option name="presentableId" value="Default" />
       <updated>1598927281185</updated>
     </task>
+    <task id="LOCAL-00001" summary="logika operation">
+      <created>1599386806343</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599386806343</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,6 +228,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="logika operation" />
+    <option name="LAST_COMMIT_MESSAGE" value="logika operation" />
   </component>
   <component name="WindowStateProjectService">
     <state x="100" y="101" width="712" height="648" key="DiffContextDialog" timestamp="1598929508082">
@@ -225,22 +240,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="236" y="179" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598929457796" />
-    <state width="711" height="215" key="GridCell.Tab.0.bottom" timestamp="1599386537780">
+    <state width="711" height="170" key="GridCell.Tab.0.bottom" timestamp="1599524614783">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="711" height="215" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599386537780" />
-    <state width="711" height="215" key="GridCell.Tab.0.center" timestamp="1599386537780">
+    <state width="711" height="170" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599524614783" />
+    <state width="711" height="170" key="GridCell.Tab.0.center" timestamp="1599524614782">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="711" height="215" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599386537780" />
-    <state width="711" height="215" key="GridCell.Tab.0.left" timestamp="1599386537780">
+    <state width="711" height="170" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599524614782" />
+    <state width="711" height="170" key="GridCell.Tab.0.left" timestamp="1599524614782">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="711" height="215" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599386537780" />
-    <state width="711" height="215" key="GridCell.Tab.0.right" timestamp="1599386537780">
+    <state width="711" height="170" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599524614782" />
+    <state width="711" height="170" key="GridCell.Tab.0.right" timestamp="1599524614782">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="711" height="215" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599386537780" />
+    <state width="711" height="170" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599524614782" />
     <state width="874" height="267" key="GridCell.Tab.1.bottom" timestamp="1599090149933">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -257,6 +272,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="874" height="267" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
+    <state x="0" y="157" key="Vcs.Push.Dialog.v2" timestamp="1599386809220">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599386809220" />
     <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599261293927">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
