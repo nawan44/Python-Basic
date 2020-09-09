@@ -1,3 +1,6 @@
+def info():
+    return 'Module Calculate Triangles Area'
+
 def calculate_triangles_area(base, height):
     triangles_area2 = base * height / 2
     return triangles_area2

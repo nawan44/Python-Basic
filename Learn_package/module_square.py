@@ -1,3 +1,6 @@
+def info() :
+    return 'Module Calculate Square Area'
+
 def calculate_square_area(side):
     square_area = side  * side
     return square_area
