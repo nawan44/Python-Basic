@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="logika operation">
-      <change afterPath="$PROJECT_DIR$/use_module/same_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/My Documents.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/My Documents.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Request/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Request/use_request.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn_package/module_square.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_package/module_square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Learn_package/module_triangle_area.py" beforeDir="false" afterPath="$PROJECT_DIR$/Learn_package/module_triangle_area.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_module/area.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_module/area.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +54,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/requirements.txt" />
   </component>
-  <component name="RunManager" selected="Python.area">
+  <component name="RunManager" selected="Python.use_request">
     <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,27 +68,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module/area.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,13 +160,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="use_request" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Request" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Request/use_request.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.use_request" />
         <item itemvalue="Python.area" />
         <item itemvalue="Python.use_module_square" />
         <item itemvalue="Python.use_geometry" />
         <item itemvalue="Python.logika_operation" />
-        <item itemvalue="Python.function" />
       </list>
     </recent_temporary>
   </component>
@@ -244,22 +240,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="236" y="179" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598929457796" />
-    <state width="800" height="269" key="GridCell.Tab.0.bottom" timestamp="1599599979109">
+    <state width="774" height="269" key="GridCell.Tab.0.bottom" timestamp="1599757004556">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="800" height="269" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599599979109" />
-    <state width="800" height="269" key="GridCell.Tab.0.center" timestamp="1599599979109">
+    <state width="774" height="269" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
+    <state width="774" height="269" key="GridCell.Tab.0.center" timestamp="1599757004556">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="800" height="269" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599599979109" />
-    <state width="800" height="269" key="GridCell.Tab.0.left" timestamp="1599599979109">
+    <state width="774" height="269" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
+    <state width="774" height="269" key="GridCell.Tab.0.left" timestamp="1599757004556">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="800" height="269" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599599979109" />
-    <state width="800" height="269" key="GridCell.Tab.0.right" timestamp="1599599979109">
+    <state width="774" height="269" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
+    <state width="774" height="269" key="GridCell.Tab.0.right" timestamp="1599757004556">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="800" height="269" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599599979109" />
+    <state width="774" height="269" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
     <state width="874" height="267" key="GridCell.Tab.1.bottom" timestamp="1599090149933">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
