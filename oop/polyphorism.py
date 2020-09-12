@@ -16,3 +16,13 @@ print('\n Try make object with Geometry Area class')
 b1 = GeometryArea()
 b1.info()
 
+
+
+geometry_area_list = []
+geometry_area_list.append(p1)
+geometry_area_list.append(s1)
+
+print('\nPolypohirsm')
+for geometry_area in geometry_area_list:
+    print(geometry_area.info())
+

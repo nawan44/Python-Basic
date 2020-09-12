@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="logika operation">
-      <change afterPath="$PROJECT_DIR$/oop/geometry_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/polyphorism.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/oop/use_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/use_inheritance.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_module/oop_inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_module/same_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_module/square.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/use_module/triangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_module/triangles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
