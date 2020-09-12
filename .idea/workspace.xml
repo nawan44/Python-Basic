@@ -20,9 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="logika operation">
-      <change afterPath="$PROJECT_DIR$/Request/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Request/use_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/geometry_area.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/use_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/use_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_module/oop_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_module/same_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_module/square.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/use_module/triangles.py" beforeDir="false" afterPath="$PROJECT_DIR$/use_module/triangles.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,6 +235,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="0" y="103" key="#Inspections/0.0.1600.860@0.0.1600.860" timestamp="1599596392708" />
+    <state x="121" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599902347929">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="121" y="171" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1600.860@0.0.1600.860" timestamp="1599902347929" />
     <state x="100" y="101" width="712" height="648" key="DiffContextDialog" timestamp="1598929508082">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -280,9 +287,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="0" y="157" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1599386809220" />
-    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599261293927">
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599901797655">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599261293927" />
+    <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599901797655" />
   </component>
 </project>
