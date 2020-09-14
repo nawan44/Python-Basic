@@ -20,9 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acc07f04-d718-4e96-8ad1-c228141cfdba" name="Default Changelist" comment="logika operation">
-      <change afterPath="$PROJECT_DIR$/oop/polyphorism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/use_module/use_beautiful_soup.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/use_inheritance.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/use_inheritance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/requirements.txt" />
   </component>
-  <component name="RunManager" selected="Python.use_request">
+  <component name="RunManager" selected="Python.use_beautiful_soup">
     <configuration name="area" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -76,27 +76,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="logika_operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="My Documents" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logika_operation.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="My Documents" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,6 +89,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="use_beautiful_soup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="My Documents" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/use_module" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/use_module/use_beautiful_soup.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.use_beautiful_soup" />
         <item itemvalue="Python.use_request" />
         <item itemvalue="Python.area" />
         <item itemvalue="Python.use_module_square" />
         <item itemvalue="Python.use_geometry" />
-        <item itemvalue="Python.logika_operation" />
       </list>
     </recent_temporary>
   </component>
@@ -244,22 +244,22 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="236" y="179" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1598929457796" />
-    <state width="774" height="269" key="GridCell.Tab.0.bottom" timestamp="1599757004556">
+    <state width="744" height="269" key="GridCell.Tab.0.bottom" timestamp="1600098573124">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="774" height="269" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
-    <state width="774" height="269" key="GridCell.Tab.0.center" timestamp="1599757004556">
+    <state width="744" height="269" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1600098573124" />
+    <state width="744" height="269" key="GridCell.Tab.0.center" timestamp="1600098573124">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="774" height="269" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
-    <state width="774" height="269" key="GridCell.Tab.0.left" timestamp="1599757004556">
+    <state width="744" height="269" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1600098573124" />
+    <state width="744" height="269" key="GridCell.Tab.0.left" timestamp="1600098573123">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="774" height="269" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
-    <state width="774" height="269" key="GridCell.Tab.0.right" timestamp="1599757004556">
+    <state width="744" height="269" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1600098573123" />
+    <state width="744" height="269" key="GridCell.Tab.0.right" timestamp="1600098573124">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="774" height="269" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1599757004556" />
+    <state width="744" height="269" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1600098573124" />
     <state width="874" height="267" key="GridCell.Tab.1.bottom" timestamp="1599090149933">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -276,10 +276,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="874" height="267" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1599090149933" />
-    <state x="0" y="69" key="SettingsEditor" timestamp="1599600078131">
+    <state x="0" y="69" width="916" height="711" key="SettingsEditor" timestamp="1600098246840">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="0" y="69" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1599600078131" />
+    <state x="0" y="69" width="916" height="711" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1600098246840" />
     <state x="0" y="157" key="Vcs.Push.Dialog.v2" timestamp="1599386809220">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -288,5 +288,9 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="617" y="343" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1600.860@0.0.1600.860" timestamp="1599901797655" />
+    <state x="54" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1600098588485">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="54" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1600098588485" />
   </component>
 </project>
