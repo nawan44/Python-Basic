@@ -55,7 +55,7 @@ res = b != 4
 print(b, '!=', '=', res  )
 
 
-#object identitiy
+#object_oriented_programming identitiy
 
 x = 4
 y = 3

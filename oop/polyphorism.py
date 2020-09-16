@@ -12,7 +12,7 @@ s1 = triangle(4, 2)
 print(s1.info())
 print(s1.calculat_area())
 
-print('\n Try make object with Geometry Area class')
+print('\n Try make object_oriented_programming with Geometry Area class')
 b1 = GeometryArea()
 b1.info()
 

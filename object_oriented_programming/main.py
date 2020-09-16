@@ -1,7 +1,8 @@
 class Oop: #template
     pass
 
-oop1 = Oop() #object / instance
+
+oop1 = Oop() #object_oriented_programming / instance
 oop2 = Oop()
 oop3 = Oop()
 
