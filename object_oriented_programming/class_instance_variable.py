@@ -5,7 +5,7 @@ class Oop :
         self.tech = stackTech
         self.softK = softSkill
         self.score = scoreS
-	    Oop.con +=1
+	    Oop.con += 1
         print("Make OOP with " + stackTech)
 
 Backend = Oop("Python", "Fast Learning", 100)
